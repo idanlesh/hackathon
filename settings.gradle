@@ -53,3 +53,5 @@ include 'clients',
     'streams:upgrade-system-tests-27',
     'tools',
     'trogdor'
+include 'checks'
+
